@@ -133,18 +133,17 @@ body {
 
         .guides {
             display: flex;
-        }
-        /* .guide1 {
-            text-align:left;
-            display: 
-        }
-        .guide2 {
             
-            text-align:right;
-            position: relative;
-            color: black
-        } */
+        }
+        .new {
+            height:75%;
+            width:75%;
+        }
 
+        .new2 {
+            height:75%;
+            width:75%;
+        }
         .footer{
             height:20%;
             width:20%;
