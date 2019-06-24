@@ -1,5 +1,5 @@
 body {
-    background-image: url("tw_background.jpg");
+    background-image: url("/TW_Background.jpg");
     margin: 0;
 }
 .top {
@@ -68,8 +68,13 @@ body {
     color:black;
   }
 .box8 { 
+    display:flex;
     text-align:center;
-    color:black;
+    color:black; 
+  }
+  .yellow, .launch{
+      width:500px;
+      height:500px;
   }
 .box9 { 
     text-align:center;
@@ -157,7 +162,6 @@ body {
             height:5%;
             width:5%;
             
-
         }
             
         
